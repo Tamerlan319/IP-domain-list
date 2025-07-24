@@ -1,8 +1,8 @@
 # В hosts:
 
-18.66.192.103 prod-live-front.playbattlegrounds.com \n
-18.66.192.60 prod-live-front.playbattlegrounds.com
-18.66.192.98 prod-live-front.playbattlegrounds.com
+18.66.192.103 prod-live-front.playbattlegrounds.com<br />
+18.66.192.60 prod-live-front.playbattlegrounds.com<br />
+18.66.192.98 prod-live-front.playbattlegrounds.com<br />
 18.66.192.129 prod-live-front.playbattlegrounds.com
 108.156.22.42 prod-live-front.playbattlegrounds.com
 108.156.22.83 prod-live-front.playbattlegrounds.com
